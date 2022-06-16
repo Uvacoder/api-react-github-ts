@@ -49,7 +49,7 @@ export const SearchRepos = () => {
                       <th>Url</th>
                       <th>Language</th>
                       <th>Owner</th>
-                      <th>Starts</th>
+                      <th>Stars</th>
                     </tr>
                   </thead>
                   <tbody>
