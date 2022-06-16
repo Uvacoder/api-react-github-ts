@@ -1,0 +1,40 @@
+.app {
+  overflow: hidden;
+  padding-top: 50px;
+}
+
+.app h1 {
+  text-align: center;
+  margin: 16px 0;
+}
+
+.app-container {
+  display: flex;
+  width: 100%;
+  padding: 20px 50px;
+}
+
+.app-container_column {
+  flex-basis: 50%;
+  max-width: 50%;
+  width: 50%;
+}
+
+.search-form {
+  display: flex;
+  padding: 100px 5px;
+}
+
+.search-input {
+  padding: 10px 20px;
+  margin-right: 16px;
+}
+
+.searchBtn {
+  height: 39px;
+  width: 200px;
+  border: 1px solid black;
+  color: white;
+  cursor: pointer;
+  background: rgb(40, 44, 52);
+}

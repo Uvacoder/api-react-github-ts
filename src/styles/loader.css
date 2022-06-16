@@ -1,0 +1,11 @@
+.loader {
+  display: flex;
+  font-weight: 500;
+  color: burlywood;
+}
+
+.loader.pulse {
+}
+
+.loader.fade {
+}
